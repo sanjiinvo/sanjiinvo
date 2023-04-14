@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on (https://github.com/sanjiinvo)  
   
 
-- 🌱 I’m currently learning JS and back  
+- 🌱 I’m currently learning JS, React, EJS. 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
